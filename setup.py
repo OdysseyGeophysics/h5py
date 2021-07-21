@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 
 """
     This is the main setup script for h5py (http://www.h5py.org).
